@@ -1,0 +1,707 @@
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.Form2.resources
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\arcan\source\repos\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Guna.UI.dll
+C:\Users\Ernes\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\arcan\Downloads\App_Console (3)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\Ernes\OneDrive\Documentos\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\arcan\Downloads\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\Ernes\Downloads\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\ernes\OneDrive\Escritorio\prueba console\App_Console (2)\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe.config
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.FormRecorte.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Emgu.CV.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Text.Json.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.ValueTuple.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Emgu.CV.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Drawing.Common.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Text.Json.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\System.ValueTuple.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.exe.manifest
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\bin\Debug\App_Console.application
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.exe.manifest
+C:\Users\ernesto23\Desktop\AppConsole\App_Console.v1\App_Console (2)\App_Console\App_Console\obj\Debug\App_Console.application
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\App_Console.exe.manifest
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\App_Console.application
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Emgu.CV.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Text.Json.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.ValueTuple.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Emgu.CV.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Drawing.Common.pdb
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Drawing.Common.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Text.Json.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\System.ValueTuple.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.exe.config
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.FormRecorte.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.exe.manifest
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.application
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\arcan\OneDrive\Escritorio\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\App_Console.exe.manifest
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\App_Console.application
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Emgu.CV.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Text.Json.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.ValueTuple.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Emgu.CV.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Drawing.Common.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Text.Json.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\System.ValueTuple.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.exe.config
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.FormRecorte.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.exe.manifest
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.application
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.csproj.CopyComplete
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\ernesto23\Music\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Mi proyecto.jpg
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\App_Console.exe.config
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\App_Console.exe.manifest
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\App_Console.application
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\App_Console.exe
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\App_Console.pdb
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\AForge.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\AForge.Video.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Emgu.CV.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Google.Protobuf.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\MySqlConnector.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Buffers.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Memory.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Text.Json.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.ValueTuple.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\zxing.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\zxing.presentation.dll
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\AForge.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\AForge.Video.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Emgu.CV.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Google.Protobuf.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\MySqlConnector.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Buffers.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Drawing.Common.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Memory.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Text.Json.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\System.ValueTuple.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\zxing.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\bin\Debug\zxing.presentation.xml
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.csproj.AssemblyReference.cache
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.exe.config
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.Form1.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.administración.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.Form3.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.Form4.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.Form5.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.FormRecorte.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.inicio.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.Properties.Resources.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.recuperar.resources
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.csproj.GenerateResource.cache
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.csproj.CoreCompileInputs.cache
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.exe.manifest
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.application
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.exe
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Console.pdb
+C:\Users\ernesto23\Music\originales por el momento\App_Console\App_Console\obj\Debug\App_Cons.1B3F1203.Up2Date
